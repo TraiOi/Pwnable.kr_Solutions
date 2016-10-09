@@ -1,7 +1,7 @@
 #### Toddler's Bottle
 
- * [ ] fd
- * [ ] collision
+ * [x] [fd](https://github.com/TraiOi/Pwnable.kr_Solutions/blob/master/ToddlersBottle/01_fd.md)
+ * [x] [collision](https://github.com/TraiOi/Pwnable.kr_Solutions/blob/master/ToddlersBottle/02_collision.md)
  * [ ] bof
  * [ ] flag
  * [ ] passcode
