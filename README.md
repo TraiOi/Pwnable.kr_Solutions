@@ -5,4 +5,4 @@
  * Grotesque (0/13)
  * Hacker's Secret (0/10)
 
-My Profile TraiOi
+My Profile: TraiOi
